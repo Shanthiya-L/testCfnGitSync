@@ -1,0 +1,5 @@
+Resources:
+  Gits3buck:
+    Type: AWS::S3::Bucket
+    Properties: {}
+        
