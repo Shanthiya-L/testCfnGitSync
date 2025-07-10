@@ -10,3 +10,6 @@ Resources:
       Tags:
         - Key: bucktag
           Value: !Ref mystack
+
+
+          
