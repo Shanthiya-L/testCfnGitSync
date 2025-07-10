@@ -1,7 +1,7 @@
 template-file-path: testS3buckGH.yml
 
 parameters: 
-    mystack: tedep
+    mystack: tedep22
     
 tags:
     org: 'AWS'
