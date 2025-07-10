@@ -1,7 +1,7 @@
 Parameters:
   mystack: 
     Type: String
-    Default: tparam
+    Default: tedep22
 
 Resources:
   Gits3buck:
