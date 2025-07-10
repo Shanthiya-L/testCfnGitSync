@@ -1,0 +1,4 @@
+template-file-path: testCfnGitSync/testS3buckGH.yml
+
+tags:
+    testing: 'workingforStack'
