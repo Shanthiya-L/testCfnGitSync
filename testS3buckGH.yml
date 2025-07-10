@@ -9,7 +9,7 @@ Resources:
     Properties:
       Tags:
         - Key: bucktag
-          Value: !Ref mystack
+          Value: hardcode
 
 
           
