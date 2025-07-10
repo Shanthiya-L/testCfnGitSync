@@ -1,5 +1,12 @@
+Parameters:
+  mystack: 
+    Type: String
+    Default: tparam
+
 Resources:
   Gits3buck:
     Type: AWS::S3::Bucket
-    Properties: {}
-        
+    Properties:
+      Tags:
+        - Key: bucktag
+          Value: !Ref tparam
